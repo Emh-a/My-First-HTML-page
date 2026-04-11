@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>My First HTML Page</title>
+    </head>
+    <body>
+        <h1>Emma Haapala</h1>
+        <p>Hi! I´m Emma. I studying cybersecurity at Laurea. At the same time  I´m  also studying healthcare managment at Centria.</p>
+        <img src="Emma.jpg" width="300" style="margin-bottom: 20px;" alt="Emma, pink hair">
+
+    </body>
+    </html>
+    
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Making videos</li>
+        <li>Long walks</li>
+        <li>Camping (in summer) </li>
+
+
+    </ul><a href="https://www.laurea.finna.fi" >Laurea Finna</a>
+    <p></p>
+ <table>
+    <tr>
+        <th>Completed Courses</th>
+        <th>Ongoing Courses</th> 
+    </tr>
+    <tr>
+        <td>Digitaalisen palvelun perusteet, 5op</td>
+        <td>Liiketoimintaympäristöt, 5op</td>
+    </tr>
+    <tr>
+        <td>Asiantuntija viestintä ja projektityö, 5op</td>
+        <td>Websivuston kehittäminen, 5op</td>
+    </tr>
+    </table> <form>
+    <p>
+    </p>
+
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name"><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email"><br><br>
+    <input type="submit" value="Submit">
+    </form>  
+    </table>   
